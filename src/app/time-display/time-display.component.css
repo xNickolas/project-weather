@@ -1,0 +1,21 @@
+.clima-tempo{
+    display: flex;
+    flex-direction: column;
+    letter-spacing: .3px;
+    background-color: #c3e3f7;
+}
+
+.agora{
+    color: #444444;
+}
+
+.cidade{
+    color: #91cdf3;
+    font-size: 22px;
+}
+
+.graus{
+    font-size: 67px;
+    color: #444444;
+    font-weight: 700;
+}
